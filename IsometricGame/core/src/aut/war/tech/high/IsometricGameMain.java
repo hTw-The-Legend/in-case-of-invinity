@@ -15,6 +15,7 @@ public class IsometricGameMain extends ApplicationAdapter {
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
                 System.out.println("Hello World!");
+                // Hallo wie gehts
 	}
 
 	@Override
