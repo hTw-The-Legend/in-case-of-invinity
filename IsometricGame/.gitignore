@@ -1,2 +1,6 @@
-# This is the path to the local android-sdk
+# this is the path to the local android-sdk
 local.properties
+# gradle paths
+.gradle/*
+.nb-gradle/*
+gradle/*
