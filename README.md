@@ -5,7 +5,7 @@ Info:
 
 Freetype, the library for bitmap-font, is not supported for html
 
-If you configure local.properties use this "/" as folder seperator for path
+If you configure local.properties use this "/" as folder seperator for path - Android currently not supported
 
 Setup the git-user in the .git\config file like this:
 
