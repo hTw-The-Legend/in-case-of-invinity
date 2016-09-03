@@ -1,4 +1,4 @@
-package com.github.incaseofinvinity.core;
+package com.github.incaseofinfinity.core;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
