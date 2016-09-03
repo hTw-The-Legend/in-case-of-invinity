@@ -1,4 +1,4 @@
-# patfra
+# in-case-of-infinity
 2D Isometric Game
 
 Info: If you configure local.properties use this "/" as folder seperator for path
